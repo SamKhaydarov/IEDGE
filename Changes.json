@@ -1,0 +1,18 @@
+{
+    "version": "2.0.1",
+    "date": "2025-01-10",
+    "changes": {
+        "added": [
+            "Silent auto-update (Inno Setup)",
+            "Update notification dot qo‘shildi"
+        ],
+        "improved": [
+            "Admin statistikasi tezlashtirildi",
+            "UI animatsiyalari yaxshilandi"
+        ],
+        "fixed": [
+            "Monthly archive xatosi tuzatildi",
+            "Internet reconnect muammosi bartaraf etildi"
+        ]
+    }
+}
