@@ -1,1 +1,5 @@
--Qanaqa yangilanishlar qo'shilganligi haqida xabar chiqadi endi
+-Dark mode ancha optimallashdi
+-Oylik hisoblashdagi xatolik to'g'irlandi
+-Oy bo'yicha oylik ko'rish funksiyasi olib tashlandi
+-Boshqa ustozlar uchun faqat admin tomonidan +/- qo'ysa bo'ladigan funksiyani 50% qismi ishga tushdi
+-Kodlari takomillashtirilib, ishlashi optimallashtirildi
