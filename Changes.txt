@@ -4,6 +4,8 @@
 
 -O'quvchini tanlash yanayam sodda va chiroyliroq bo'lib, o'quvchini ustiga sichqonchani o'ng tugmasini bosganda select rejimiga o'tadi, ESC barchasini deselect qiladi
 
+-O'quvchini edit qilishda endi bir marta bosish kifoya
+
 -Til va dark mode sozlamalari barqarorlashtirildi
 
 -Boshqa xato va kamchiliklar to'g'irlandi
