@@ -1,5 +1,9 @@
--Dark mode ancha optimallashdi
--Oylik hisoblashdagi xatolik to'g'irlandi
--Oy bo'yicha oylik ko'rish funksiyasi olib tashlandi
--Boshqa ustozlar uchun faqat admin tomonidan +/- qo'ysa bo'ladigan funksiyani 50% qismi ishga tushdi
--Kodlari takomillashtirilib, ishlashi optimallashtirildi
+-Teacherlarga plus qo'yish to'liq ishga tushdi
+
+-Yangicha zamonaviy LiquidGlass dizayni
+
+-O'quvchini tanlash yanayam sodda va chiroyliroq bo'lib, o'quvchini ustiga sichqonchani o'ng tugmasini bosganda select rejimiga o'tadi
+
+-Til va dark mode sozlamalari barqarorlashtirildi
+
+-Boshqa xato va kamchiliklar to'g'irlandi
