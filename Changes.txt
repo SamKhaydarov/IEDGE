@@ -1,5 +1,5 @@
--O'quvchi/teacherda minus<-15 yoki lateness>2 yoki absence>1 bo'lsa qizilga tushadi
+-Ustozlar uchun oylikni necha % olishini belgilash funksiyasi qo'shildi
 
--Dizaynidagi xato va kamchiliklar bartaraf qilindi
+-O'quvchilarni tanlab guruhini o'zgartirish funksiyasi qo'shildi
 
--Internet yo'qligi xabari barqarorlashdi
+-Oylik qismini ko'rish uchun admin parolini kiritishi shart bo'ldi endi
