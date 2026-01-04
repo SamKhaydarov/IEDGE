@@ -2,4 +2,6 @@
 
 -Dizayni optimallashdi
 
+-Plus qo'yish qismi endi tez yuklanadigan bo'ldi
+
 -Admin paneli optimallashtirildi. Endi teacherlar uchun NFC karta biriktirsa bo'ladi, va u bilan boshqa amallar bajarsa bo'ladi
