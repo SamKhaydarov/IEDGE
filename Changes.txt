@@ -1,5 +1,5 @@
--Ustozlar uchun oylikni necha % olishini belgilash funksiyasi qo'shildi
+-Xato va kamchiliklar bartaraf etildi
 
--O'quvchilarni tanlab guruhini o'zgartirish funksiyasi qo'shildi
+-Dizayni optimallashdi
 
--Oylik qismini ko'rish uchun admin parolini kiritishi shart bo'ldi endi
+-Admin paneli optimallashtirildi. Endi teacherlar uchun NFC karta biriktirsa bo'ladi, va u bilan boshqa amallar bajarsa bo'ladi
