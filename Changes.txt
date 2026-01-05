@@ -1,7 +1,5 @@
--Xato va kamchiliklar bartaraf etildi
+-O'quvchi edit qilyotganda crash bo'lishi bartaraf etildi
 
--Dizayni optimallashdi
+-Imtihon sanalarini chiroyli generatsiya qilish funksiyasi qo'shildi
 
--Plus qo'yish qismi endi tez yuklanadigan bo'ldi
-
--Admin paneli optimallashtirildi. Endi teacherlar uchun NFC karta biriktirsa bo'ladi, va u bilan boshqa amallar bajarsa bo'ladi
+-Boshqa xato va kamchiliklar bartaraf etildi
