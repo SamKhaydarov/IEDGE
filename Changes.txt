@@ -1,5 +1,7 @@
--O'quvchi edit qilyotganda crash bo'lishi bartaraf etildi
+-Imtihon generate qilish to'liq ishga tushdi!
 
--Imtihon sanalarini chiroyli generatsiya qilish funksiyasi qo'shildi
+-Search tizimi barqarorlashdi
 
--Boshqa xato va kamchiliklar bartaraf etildi
+-Cheklar yozilib boriladigan bo'ldi
+
+-Xato va kamchiliklar bartaraf etildi
