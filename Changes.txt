@@ -1,7 +1,3 @@
--Imtihon generate qilish to'liq ishga tushdi!
+-Improved student add/edit dialog
 
--Search tizimi barqarorlashdi
-
--Cheklar yozilib boriladigan bo'ldi
-
--Xato va kamchiliklar bartaraf etildi
+-Imroved language settings
