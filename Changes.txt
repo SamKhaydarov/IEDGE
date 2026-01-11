@@ -1,3 +1,7 @@
--Improved add/edit student dialog
+-Xatoliklar to'g'irlanib, ishlashi optimallashdi
 
--? bug fixed in payment checks
+-O'quvchi qo'shish qismi logikasi ancha optimal darajaga olib kelindi
+
+-Parol xavfsizliklari barqarorlashdi
+
+-Backup qo'shildi
