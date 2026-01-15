@@ -1,7 +1,3 @@
--Xatoliklar to'g'irlanib, ishlashi optimallashdi
+-O'quvchi qo'shishdagi xatoliklar to'g'irlanib, ishlashi optimallashdi
 
--O'quvchi qo'shish qismi logikasi ancha optimal darajaga olib kelindi
-
--Parol xavfsizliklari barqarorlashdi
-
--Backup qo'shildi
+-Endi ilova telegram kabi fonda ishlab turadigan bo'ldi
