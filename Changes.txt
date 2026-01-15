@@ -1,3 +1,5 @@
 -O'quvchi qo'shishdagi xatoliklar to'g'irlanib, ishlashi optimallashdi
 
 -Endi ilova telegram kabi fonda ishlab turadigan bo'ldi
+
+-Kompyuter yonganda avtomatik ishga tushadigan funksiya qo'shildi
