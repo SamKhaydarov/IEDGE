@@ -1,5 +1,5 @@
--O'quvchi qo'shishdagi xatoliklar to'g'irlanib, ishlashi optimallashdi
+-Dark mode dagi xatolik to'g'irlandi
 
--Endi ilova telegram kabi fonda ishlab turadigan bo'ldi
+-Imtihon bo'limida o'quvchi imtihon ballini tez va oson yo'l bilan chiqarish funksiyasi qo'shildi
 
--Kompyuter yonganda avtomatik ishga tushadigan funksiya qo'shildi
+-Buttonlar dizayni yangilandi
