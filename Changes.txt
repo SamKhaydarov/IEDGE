@@ -1,5 +1,3 @@
--Dark mode dagi xatolik to'g'irlandi
+-Umuman yangicha dizayn
 
--Imtihon bo'limida o'quvchi imtihon ballini tez va oson yo'l bilan chiqarish funksiyasi qo'shildi
-
--Buttonlar dizayni yangilandi
+-Oy bo'yicha to'lovlarni kiritsa bo'ladi endi
