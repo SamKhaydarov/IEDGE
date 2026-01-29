@@ -1,3 +1,5 @@
--Umuman yangicha dizayn
+-Ma'lumotlarni yulashi va ishlashi ancha tezlashdi
 
--Oy bo'yicha to'lovlarni kiritsa bo'ladi endi
+-Xato va kamchiliklar bartaraf qilindi
+
+-Dizayni optimallashdi
