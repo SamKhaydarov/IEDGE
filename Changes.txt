@@ -1,4 +1,5 @@
--Yangicha soda dizayn
--To'lov kiritishdagi xatolik to'g'irlandi
+-Dark mode va boshqa dizaynidagi xatoliklar to'g'irlandi
+-Imtihon bo'limidagi xatoliklar to'g'irlandi
+-Chek chiqqandagi o' harfidagi muammo bartaraf qilindi
 
 
