@@ -1,5 +1,4 @@
--Dark mode va boshqa dizaynidagi xatoliklar to'g'irlandi
--Imtihon bo'limidagi xatoliklar to'g'irlandi
--Chek chiqqandagi o' harfidagi muammo bartaraf qilindi
+-Bir vaqtni o'zida o'quvchilarni tanlagan holda chekni chiqarish imkoniyati qo'shildi
+-Interfeysdagi sezilmas kamchilik bartaraf qilindi
 
 
