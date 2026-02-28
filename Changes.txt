@@ -1,4 +1,3 @@
--Bir vaqtni o'zida o'quvchilarni tanlagan holda chekni chiqarish imkoniyati qo'shildi
--Interfeysdagi sezilmas kamchilik bartaraf qilindi
+-Imtihon bo'limidagi xato va kamchiliklar to'g'irlandi
 
 
