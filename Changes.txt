@@ -1,3 +1,4 @@
--Imtihon bo'limidagi xato va kamchiliklar to'g'irlandi
+-O'quvchini tahrirlab saqlaganda guruh alamashib qolish xatoligi bartaraf qilindi
+-Admin uchun oy bo'yicha to'lovlarni 0 ga qaytarish funksiyasi qo'shildi
 
 
