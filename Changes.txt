@@ -1,4 +1,5 @@
--O'quvchini tahrirlab saqlaganda guruh alamashib qolish xatoligi bartaraf qilindi
--Admin uchun oy bo'yicha to'lovlarni 0 ga qaytarish funksiyasi qo'shildi
+-Kids/Adults toggle olib tashlab logika soddalashtirildi
+-Xato va kamchiliklar bartaraf qilindi
+-Ilova dizayni barqarorlashdi
 
 
