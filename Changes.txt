@@ -1,5 +1,4 @@
--Kids/Adults toggle olib tashlab logika soddalashtirildi
--Xato va kamchiliklar bartaraf qilindi
--Ilova dizayni barqarorlashdi
+-Mobilograf uchun oylik hisoblash funksiyasi qo'shildi
+-2 tomonlama kvitansiya cheki chiqadigan bo'ldi
 
 
