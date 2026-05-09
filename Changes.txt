@@ -1,4 +1,3 @@
--Mobilograf uchun oylik hisoblash funksiyasi qo'shildi
--2 tomonlama kvitansiya cheki chiqadigan bo'ldi
+-Chekdagi xatolik to'g'irlandi
 
 
