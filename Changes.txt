@@ -2,4 +2,5 @@
 -Guruhlarni alohida yaratish yanada osonlashdi
 -Student screenda ownerlarni horizontal scroll qilib ko'rish imkoniyati
 -To'lov dropdownida to'lovlar to'g'irlandi
+-Boshqa xato va kamchiliklar to'g'irlandi
 
