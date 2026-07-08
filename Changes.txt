@@ -1,4 +1,5 @@
--Yangi o'quvchi qo'shish endi yanada osonlashdi
--Ijara to'lovlari hisob kitobidagi xatolik bartaraf qilindi
-
+-Admin screenda o'qituvchi uchun short name biriktirish imkoniyati
+-Guruhlarni alohida yaratish yanada osonlashdi
+-Student screenda ownerlarni horizontal scroll qilib ko'rish imkoniyati
+-To'lov dropdownida to'lovlar to'g'irlandi
 
