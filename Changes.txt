@@ -1,6 +1,4 @@
--Admin screenda o'qituvchi uchun short name biriktirish imkoniyati
--Guruhlarni alohida yaratish yanada osonlashdi
--Student screenda ownerlarni horizontal scroll qilib ko'rish imkoniyati
--To'lov dropdownida to'lovlar to'g'irlandi
--Boshqa xato va kamchiliklar to'g'irlandi
+-Xato va kamchiliklar bartaraf etildi
+-Endi fonda ham updateni yuklab oladi
+-Endi admin paneli uchun pin kod bilan kiriladi
 
