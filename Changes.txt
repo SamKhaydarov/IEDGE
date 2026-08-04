@@ -1,4 +1,6 @@
+-O'quvchilar statistikasi qo'shildi (fasllar bo'yicha qo'shilgan/chiqib ketgan o'quvchilar)
+-PIN kodni o'zgartirish uchun endi avval joriy PIN so'raladi
+-Sozlamalardan parolni o'zgartirish imkoniyati qo'shildi
+-Xodimlar va oyliklar bo'limlari dizayni yangilandi, ixchamlashtirildi
 -Xato va kamchiliklar bartaraf etildi
--Endi fonda ham updateni yuklab oladi
--Endi admin paneli uchun pin kod bilan kiriladi
 
